@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T13:59:07.553Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="6xpO64LnccdmGMcZhWOX" version="16.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T13:59:49.281Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="FkiT0qt6WVm2ziRXb8TX" version="16.4.6" type="github">
   <diagram id="GTqQwn-BYpsyxhlhB6gD" name="第 1 页">
     <mxGraphModel dx="899" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,13 +16,13 @@
         <mxCell id="BKS__MrW8ptgUIP7V3R3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BKS__MrW8ptgUIP7V3R3-12" target="BKS__MrW8ptgUIP7V3R3-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BKS__MrW8ptgUIP7V3R3-12" value="xml配置bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-12" value="xml配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="310" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BKS__MrW8ptgUIP7V3R3-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BKS__MrW8ptgUIP7V3R3-13" target="BKS__MrW8ptgUIP7V3R3-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BKS__MrW8ptgUIP7V3R3-13" value="Java配置bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-13" value="yaml配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BKS__MrW8ptgUIP7V3R3-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BKS__MrW8ptgUIP7V3R3-14" target="BKS__MrW8ptgUIP7V3R3-7">
