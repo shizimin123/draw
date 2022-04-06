@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T13:35:24.516Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="16.4.6" etag="bXRrwrwtegnp4Uoji2vt" type="github"><diagram id="GTqQwn-BYpsyxhlhB6gD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-06T13:39:00.046Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="3kNkqr__uEFGVVuv4TyY" version="16.4.6" type="github">
+  <diagram id="GTqQwn-BYpsyxhlhB6gD" name="第 1 页">
+    <mxGraphModel dx="716" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="180" y="30" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-1" value="Ioc Container" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;verticalAlign=top;" vertex="1" parent="BKS__MrW8ptgUIP7V3R3-8">
+          <mxGeometry width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-2" value="bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BKS__MrW8ptgUIP7V3R3-8">
+          <mxGeometry x="60" y="170" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-3" value="bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BKS__MrW8ptgUIP7V3R3-8">
+          <mxGeometry x="70" y="180" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-4" value="bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BKS__MrW8ptgUIP7V3R3-8">
+          <mxGeometry x="80" y="190" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-5" value="bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BKS__MrW8ptgUIP7V3R3-8">
+          <mxGeometry x="90" y="200" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-6" value="bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BKS__MrW8ptgUIP7V3R3-8">
+          <mxGeometry x="100" y="210" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-7" value="bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BKS__MrW8ptgUIP7V3R3-8">
+          <mxGeometry x="110" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BKS__MrW8ptgUIP7V3R3-9" target="BKS__MrW8ptgUIP7V3R3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-9" value="context.getBean(class,&lt;br&gt;string)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="150" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
