@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T13:59:49.281Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="FkiT0qt6WVm2ziRXb8TX" version="16.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T14:14:04.493Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="MJ6fxrQPDfI_HSGzW5-9" version="16.4.6" type="github">
   <diagram id="GTqQwn-BYpsyxhlhB6gD" name="第 1 页">
-    <mxGraphModel dx="899" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="507" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,28 +16,28 @@
         <mxCell id="BKS__MrW8ptgUIP7V3R3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BKS__MrW8ptgUIP7V3R3-12" target="BKS__MrW8ptgUIP7V3R3-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BKS__MrW8ptgUIP7V3R3-12" value="xml配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-12" value="xml配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="40" y="310" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BKS__MrW8ptgUIP7V3R3-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BKS__MrW8ptgUIP7V3R3-13" target="BKS__MrW8ptgUIP7V3R3-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BKS__MrW8ptgUIP7V3R3-13" value="yaml配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-13" value="yaml配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="40" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BKS__MrW8ptgUIP7V3R3-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BKS__MrW8ptgUIP7V3R3-14" target="BKS__MrW8ptgUIP7V3R3-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BKS__MrW8ptgUIP7V3R3-14" value="抽象接口&lt;br&gt;&lt;br&gt;定义读取配置文件的规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-14" value="抽象接口&lt;br&gt;&lt;br&gt;定义读取配置文件的规范" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="250" y="320" width="80" height="260" as="geometry" />
         </mxCell>
         <mxCell id="BKS__MrW8ptgUIP7V3R3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BKS__MrW8ptgUIP7V3R3-15" target="BKS__MrW8ptgUIP7V3R3-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BKS__MrW8ptgUIP7V3R3-15" value="其他形式的配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-15" value="其他形式的配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="30" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BKS__MrW8ptgUIP7V3R3-7" value="bean定义信息&lt;br&gt;bean definition" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-7" value="bean定义信息&lt;br&gt;&lt;br&gt;BeanDefinition" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="420" y="415" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BKS__MrW8ptgUIP7V3R3-24" value="BeanDefinitionReader" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1" vertex="1" parent="1">
