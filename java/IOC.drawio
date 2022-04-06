@@ -1,38 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T13:39:00.046Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="3kNkqr__uEFGVVuv4TyY" version="16.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T13:53:06.554Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="PCpOt7CH5mTR_zhYJn6B" version="16.4.6" type="github">
   <diagram id="GTqQwn-BYpsyxhlhB6gD" name="第 1 页">
-    <mxGraphModel dx="716" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="899" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BKS__MrW8ptgUIP7V3R3-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="180" y="30" width="320" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="BKS__MrW8ptgUIP7V3R3-1" value="Ioc Container" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;verticalAlign=top;" vertex="1" parent="BKS__MrW8ptgUIP7V3R3-8">
-          <mxGeometry width="320" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="BKS__MrW8ptgUIP7V3R3-2" value="bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BKS__MrW8ptgUIP7V3R3-8">
-          <mxGeometry x="60" y="170" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BKS__MrW8ptgUIP7V3R3-3" value="bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BKS__MrW8ptgUIP7V3R3-8">
-          <mxGeometry x="70" y="180" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BKS__MrW8ptgUIP7V3R3-4" value="bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BKS__MrW8ptgUIP7V3R3-8">
-          <mxGeometry x="80" y="190" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BKS__MrW8ptgUIP7V3R3-5" value="bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BKS__MrW8ptgUIP7V3R3-8">
-          <mxGeometry x="90" y="200" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BKS__MrW8ptgUIP7V3R3-6" value="bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BKS__MrW8ptgUIP7V3R3-8">
-          <mxGeometry x="100" y="210" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BKS__MrW8ptgUIP7V3R3-7" value="bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BKS__MrW8ptgUIP7V3R3-8">
-          <mxGeometry x="110" y="220" width="70" height="30" as="geometry" />
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-1" value="Ioc Container" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="385" y="320" width="320" height="320" as="geometry" />
         </mxCell>
         <mxCell id="BKS__MrW8ptgUIP7V3R3-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BKS__MrW8ptgUIP7V3R3-9" target="BKS__MrW8ptgUIP7V3R3-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BKS__MrW8ptgUIP7V3R3-9" value="context.getBean(class,&lt;br&gt;string)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="440" width="150" height="60" as="geometry" />
+          <mxGeometry x="460" y="680" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BKS__MrW8ptgUIP7V3R3-12" target="BKS__MrW8ptgUIP7V3R3-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-12" value="xml配置bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.013;entryY=0.538;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BKS__MrW8ptgUIP7V3R3-13" target="BKS__MrW8ptgUIP7V3R3-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-13" value="Java配置bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BKS__MrW8ptgUIP7V3R3-14" target="BKS__MrW8ptgUIP7V3R3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-14" value="抽象接口&lt;br&gt;&lt;br&gt;定义读取配置文件的规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="80" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BKS__MrW8ptgUIP7V3R3-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-15" value="其他形式的配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKS__MrW8ptgUIP7V3R3-7" value="bean定义信息&lt;br&gt;bean definition" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="460" y="510" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
