@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T09:27:26.436Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="4ik3PfNTYTEFCvxUkqq1" version="16.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-09T09:50:17.582Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="MKqW6gix38CDJWIp9kqB" version="16.4.6" type="github">
   <diagram id="aaZpISaqm3DU9y9zQW4K" name="第 1 页">
     <mxGraphModel dx="930" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="fxZ9rcemB220ZJ2YS55v-11" value="bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="380" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxZ9rcemB220ZJ2YS55v-12" value="&lt;div&gt;ApplicationContext context = new ClasspathXmlApplicationContext();&lt;/div&gt;&lt;div&gt;A a = context.getBean(A.class);&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class A{&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;private B b;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;反射&lt;/div&gt;&lt;div&gt;Constructor ctor = clazz.getConstructor();&lt;/div&gt;&lt;div&gt;Object obj = ctor.newInstance();&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="250" y="50" width="470" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
